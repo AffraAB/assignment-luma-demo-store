@@ -1,0 +1,9 @@
+# Folders
+node_modules/
+mochawesome-report/
+
+# Specific configuration
+package-lock.json
+
+# Configuration
+#.env
